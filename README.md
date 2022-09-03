@@ -1,4 +1,4 @@
-# SqlWatcherTaskForExpress
+# MsSqlServerAgentReplacementForSqlWatcher
 Powershell script to work with SqlWatcher to monitor sql server
 SqlWatcher monitor server by making snapshots called by task from sql server agent
 Sql server express dont have sql server agent :|  
