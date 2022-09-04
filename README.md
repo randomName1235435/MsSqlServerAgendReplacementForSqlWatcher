@@ -1,8 +1,8 @@
 # MsSqlServerAgentReplacementForSqlWatcher
-Powershell script to work with SqlWatcher to monitor sql server
+Powershell script for executing monitoring tasks for SqlWatcher by ms task sheduler.
+Replacement for sql server agent cause express dont have one :|  
+
 SqlWatcher monitor server by making snapshots called by task from sql server agent
-Sql server express dont have sql server agent :|  
-this script & windows task sheduler can replace that bad boii
 
 #tutorial
 * Execute Create.Necessary.StoredProcedures.sql for your SQLWATCH database
